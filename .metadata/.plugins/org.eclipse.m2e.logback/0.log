@@ -1,0 +1,53 @@
+2025-02-13 23:02:10,424 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-13 23:03:58,375 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.student:StudentManagement:0.0.1-SNAPSHOT @ D:\Anudip\StudentManagement\pom.xml.
+2025-02-13 23:04:00,372 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagement/src/main/java
+2025-02-13 23:04:00,374 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/main/resources
+2025-02-13 23:04:00,391 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/main/resources
+2025-02-13 23:04:00,398 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagement/src/test/java
+2025-02-13 23:04:00,399 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/test/resources
+2025-02-13 23:04:02,086 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-02-13 23:04:02,091 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-13 23:04:03,586 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.student:StudentManagement:0.0.1-SNAPSHOT @ D:\Anudip\StudentManagement\pom.xml.
+2025-02-13 23:04:05,051 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagement/src/main/java
+2025-02-13 23:04:05,051 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/main/resources
+2025-02-13 23:04:05,052 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/main/resources
+2025-02-13 23:04:05,053 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagement/src/test/java
+2025-02-13 23:04:05,054 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagement/src/test/resources
+2025-02-13 23:04:06,028 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-02-13 23:04:07,987 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:04:08,020 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:04:08,027 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:04:59,546 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:04:59,570 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:04:59,576 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:05:51,252 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:05:51,300 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:05:51,308 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:06:28,269 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:06:28,326 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:06:28,340 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:06:35,754 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.15; built: 2024-11-05T19:44:57.623Z; git: 8281ae9740d4b4225e8166cc476bad237c70213a; jvm 21.0.6+7-LTS
+2025-02-13 23:06:35,929 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6bcd3b81{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@3fe60519{STARTED}}
+2025-02-13 23:06:35,932 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-02-13 23:06:35,973 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@561ce7e7{HTTP/1.1, (http/1.1)}{127.0.0.1:62319}
+2025-02-13 23:06:35,988 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2dd8f1ed{STARTING}[12.0.15,sto=0] @288585ms
+2025-02-13 23:10:09,003 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:10:09,025 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:10:09,049 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:13:06,761 [Worker-7: Launching StudentManagement - StudentManagementApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:13:06,844 [Worker-7: Launching StudentManagement - StudentManagementApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:13:06,853 [Worker-7: Launching StudentManagement - StudentManagementApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:18:12,883 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:18:12,906 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:18:12,912 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:18:23,098 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:18:23,110 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:18:23,115 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:23:57,260 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:23:57,315 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:23:57,330 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:24:20,218 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 23:24:20,233 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-13 23:24:20,237 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Anudip\StudentManagement\src\test\resources
+2025-02-13 23:29:27,410 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2dd8f1ed{STOPPING}[12.0.15,sto=0]
+2025-02-13 23:29:27,426 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@561ce7e7{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
